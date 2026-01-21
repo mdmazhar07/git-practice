@@ -5,3 +5,4 @@ third line
 fourth file
 fifth file
 sixth file
+new file
