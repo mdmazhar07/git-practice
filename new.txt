@@ -4,3 +4,4 @@ newfile
 git worker
 day 5
 new
+day 6
