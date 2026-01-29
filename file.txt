@@ -16,3 +16,4 @@ newfile
 =======
 new file
 >>>>>>> 38e66ff31ff04e1e7ea6d8d4a014b4ba266843ca
+newday
