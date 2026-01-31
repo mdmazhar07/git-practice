@@ -1,3 +1,5 @@
+ HEAD
+newtoday
 hello git
 learning git
 second line
@@ -11,12 +13,16 @@ day 3 practice
 day3
 day4
 new file
-<<<<<<< HEAD
+HEAD
 newfile
-=======
 new file
->>>>>>> 38e66ff31ff04e1e7ea6d8d4a014b4ba266843ca
+ 38e66ff31ff04e1e7ea6d8d4a014b4ba266843ca
 newday
 todaynewfile
 newfile
+ feature-login
 newfile1
+
+ 1958bed3fc1a3705a19df8da0c90767bdb1460ad
+new dat
+ main
