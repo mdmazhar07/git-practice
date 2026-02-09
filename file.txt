@@ -22,7 +22,10 @@ todaynewfile
 newfile
  feature-login
 newfile1
+feature-login
+new old file
 
  1958bed3fc1a3705a19df8da0c90767bdb1460ad
 new dat
+ main
  main
